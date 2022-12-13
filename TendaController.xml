@@ -17,7 +17,7 @@
 &#xD;
 The first run may take around 10 seconds (more if you don't have a decent CPU or local network). Because the application fetchs all Tenda SP9 devices over the local network.</Overview>
   <Category>HomeAutomation: Tools: Network:Web Status:Beta</Category>
-  <WebUI>http://[IP]:[PORT:8800]/</WebUI>
+  <WebUI>http://[IP]:[PORT:80]/</WebUI>
   <TemplateURL/>
   <Icon>https://d36jcksde1wxzq.cloudfront.net/54e48877dab8df8f92cd.png</Icon>
   <ExtraParams/>
